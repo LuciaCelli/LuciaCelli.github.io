@@ -42,25 +42,6 @@ A comprehensive research project exploring Edgeworth expansions for fully connec
 
 ---
 
-## 📚 Research & Publications
-
-### Featured Papers
-
-**2025:**
-- **Entropic bounds for conditionally Gaussian vectors and applications to neural networks**  
-  Lucia Celli, Giovanni Peccati  
-  *arXiv preprint* | [2504.08335](https://arxiv.org/abs/2504.08335)
-
-**2026:**
-- **Wide neural networks with general weights: convergence rate and explicit dependence on the hyper-parameters**  
-  Lucia Celli  
-  *arXiv preprint* | [2601.21539](https://arxiv.org/abs/2601.21539)
-
-- **Optimal Non-Asymptotic Edgeworth Expansions for Multivariate Neural Network Outputs**  
-  Lucia Celli  
-  *In preparation* (2026)
-
----
 
 ## 🔍 Curiosities About Me
 
@@ -88,16 +69,6 @@ Languages open doors to different ways of thinking and understanding the world.
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuciaCelli&show_icons=true&theme=nord)
-
----
-
-## 🔗 Connect With Me
-
-- 📧 **Email:** [lucia.celli@uni.lu](mailto:lucia.celli@uni.lu)
-- 🏫 **Institution:** [University of Luxembourg](https://www.uni.lu/)
-- 💼 **LinkedIn:** [lucia-celli-b0b517227](https://www.linkedin.com/in/lucia-celli-b0b517227/)
-- 🔬 **ORCID:** [0009-0002-7347-8040](https://orcid.org/0009-0002-7347-8040)
-- 📤 **arXiv:** [Lucia Celli](https://arxiv.org/search/?query=lucia+celli&searchtype=author)
 
 ---
 
