@@ -15,3 +15,4 @@ Go to:
 - [About me](about_me.md)
 - [Papers](papers.md)
 - [Connect With Me](how_to_contact_me.md)
+- [Talks](talks.md)
