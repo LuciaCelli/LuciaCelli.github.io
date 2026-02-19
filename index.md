@@ -14,3 +14,4 @@ I'm **Lucia Celli**, a PhD student at the **University of Luxembourg** researchi
 Go to:
 - [About me](about_me.md)
 - [Papers](papers.md)
+- [Connect With Me](how_to_contact_me.md)
