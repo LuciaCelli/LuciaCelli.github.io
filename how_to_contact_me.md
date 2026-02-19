@@ -1,5 +1,4 @@
-[Back to Home](index.md)  |  [About me](about_me.md)  |  [Papers](papers.md)  |  [Connect with me](how_to_contact_me.md)
-
+[Back to Home](index.md)  |  [About me](about_me.md)  |  [Papers](papers.md)  
 ## 🔗 Connect With Me
 
 - 📧 **Email:** [lucia.celli@uni.lu](mailto:lucia.celli@uni.lu)
