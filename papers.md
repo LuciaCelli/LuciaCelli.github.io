@@ -1,4 +1,4 @@
-[Back to Home](index.md)
+[Back to Home](index.md)  |  [About me](about_me.md)  |  [Connect with me](how_to_contact_me.md)
 
 ## 📚 Research & Publications
 
