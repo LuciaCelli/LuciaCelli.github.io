@@ -1,4 +1,4 @@
-[Back to Home](index.md)  |  [Papers](papers.md)  |  [Connect with me](how_to_contact_me)
+[Back to Home](index.md)  |  [Papers](papers.md)  |  [Connect with me](how_to_contact_me)  |  [Talks](talks.md)
 
 ## 🎓 About Me
 
