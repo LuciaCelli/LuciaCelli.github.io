@@ -12,5 +12,5 @@ I'm **Lucia Celli**, a PhD student at the **University of Luxembourg** researchi
 
 
 Go to:
-- [About me](about.md)
-- [Projects](projects.md)
+- [About me](about_me.md)
+- [Papers](papers.md)
