@@ -1,6 +1,9 @@
 # 👋 Welcome to my page
 
+![photo](photo_5805167631269563624_y.jpg)
+
 I'm **Lucia Celli**, a PhD student at the **University of Luxembourg** researching the mathematical aspects of neural networks. This is my space for sharing research, code, and contributions to the scientific computing and machine learning community.
+
 
 ---
 
