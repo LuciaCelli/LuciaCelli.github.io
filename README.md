@@ -1,28 +1,7 @@
-# README
+## Curiosities
 
-## Technical Skills
-- **Programming Languages:** Python, R, Java, LaTeX, SQL, Excel, Power BI
-
-## Research Focus
-- Neural networks at initialization and Bayesian settings
-
-## Featured Repository
-- [simulation_edgeworth_expansion](https://github.com/LuciaCelli/simulation_edgeworth_expansion)
-
-## Languages
-- Italian, English, Russian
-
-## Interests
-- Finance and Cats
-
-## Contact Information
-- Email: lucia.celli@uni.lu  
-- LinkedIn: [linkedin-lucia-celli-b0b517227](https://www.linkedin.com/in/linkedin-lucia-celli-b0b517227)  
-- ORCID: 0009-0002-7347-8040
-
-## Research Papers
-1. [Title of Paper 1](https://arxiv.org/abs/XXXX)  
-2. [Title of Paper 2](https://arxiv.org/abs/YYYY)  
-3. [Title of Paper 3](https://arxiv.org/abs/ZZZZ)  
-
-> Note: Please replace 'Title of Paper 1', 'Title of Paper 2', and 'Title of Paper 3' with the actual titles of your research papers.
+- **Surrealism**: Magritte loved playing with perception, known for his famous work, "The Treachery of Images," which challenges our understanding of reality. Ensor combined fantastical elements with social commentary, while Bruegel's intricate scenes inspired deep reflection on human nature. Bosch, with his wild imagination, brought the grotesque and fantastical to life.
+- **Cats**: Known for their independent spirit, cats have been revered in several cultures, including ancient Egypt, where they were seen as symbols of grace and mystery.
+- **Coin Collecting**: An engaging hobby, coin collecting connects individuals with history, offering a glimpse into different cultures and eras through numismatics.
+- **Finance Interests**: Finance is more than numbers; it embodies decision-making and strategic planning that impact everyday life and global economies.
+- **Languages**: Being multilingual fosters deeper connections. Italian charms with its melodic rhythm, English serves as a global lingua franca, while Russian opens doors to rich literature and history.
