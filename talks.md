@@ -1,4 +1,4 @@
-[Back to Home](index.md)  |  [GitHub Projects](about_me.md)  |  [Papers](papers.md)  |  [Connect with me](how_to_contact_me.md)
+[Back to Home](index.md)  |  [GitHub Projects](about_me.md)  |  [Papers](papers.md)  |  [Contact me](how_to_contact_me.md)
 
 
 <ul>
