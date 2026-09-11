@@ -1,8 +1,8 @@
 [Back to Home](index.md)  |  [GitHub Projects](about_me.md)  |  [Contact me](how_to_contact_me.md)  |  [Talks](talks.md)
 
-## 📚 Research & Publications
+##  Research & Publications
 
-### Featured Papers
+### Preprints
 
 **2025:**
 - **Entropic bounds for conditionally Gaussian vectors and applications to neural networks**  
@@ -16,6 +16,6 @@
 
 - **Optimal Non-Asymptotic Edgeworth Expansions for Multivariate Neural Network Outputs**  
   Lucia Celli  
-  *In preparation* (2026)
+  *arXiv preprint* | [2605.24072](https://arxiv.org/abs/2605.24072)
 
 ---
