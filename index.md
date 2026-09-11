@@ -1,7 +1,7 @@
 # Lucia Celli
 
 <p align="center">
-<img src="photo.jpg" width="300">
+<img src="me_github.jpg" width="300">
 </p>
 
 
