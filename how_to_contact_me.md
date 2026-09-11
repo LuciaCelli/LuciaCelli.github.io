@@ -1,5 +1,5 @@
 [Back to Home](index.md)  |  [GitHub Projects](about_me.md)  |  [Papers](papers.md)  |  [Talks](talks.md)
-## 🔗 Contact Me
+##  Contact Me
 
 - **Email:** [lucia.celli@uni.lu](mailto:lucia.celli@uni.lu)
 - **Institution:** [University of Luxembourg](https://www.uni.lu/)
