@@ -1,4 +1,4 @@
-[Back to Home](index.md)  |  [About me](about_me.md)  |  [Papers](papers.md)  |  [Talks](talks.md)
+[Back to Home](index.md)  |  [GitHub Projects](about_me.md)  |  [Papers](papers.md)  |  [Talks](talks.md)
 ## 🔗 Connect With Me
 
 - **Email:** [lucia.celli@uni.lu](mailto:lucia.celli@uni.lu)
