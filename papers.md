@@ -1,4 +1,4 @@
-[Back to Home](index.md)  |  [GitHub Projects](about_me.md)  |  [Connect with me](how_to_contact_me.md)  |  [Talks](talks.md)
+[Back to Home](index.md)  |  [GitHub Projects](about_me.md)  |  [Contact me](how_to_contact_me.md)  |  [Talks](talks.md)
 
 ## 📚 Research & Publications
 
